@@ -4,7 +4,7 @@ Output :
 
 ```
 ┌──(arjun㉿arjun)-[~/myexpos/xsm]
-└─$ ./xsm 
+└─$ ./xsm --debug --timer 1000
 Timer
 1
 3
